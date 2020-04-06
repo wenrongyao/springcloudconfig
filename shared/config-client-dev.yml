@@ -1,3 +1,4 @@
 server: 
   port: 9900
 foo: dev foo version
+label: release1.0
